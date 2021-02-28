@@ -48,7 +48,6 @@ public class GitDemo {
     public double reverseNumber(int num){
         double factorialNumber = 0;
         
- Proj-1-Branch-2
         while( num != 0 ) {
             double temp = num % 10;
             factorialNumber = factorialNumber * 10 + temp;
@@ -56,13 +55,6 @@ public class GitDemo {
         }
         
         return factorialNumber;
-
-        for(int i = 1; i <= num; ++i){
-            newNumber = newNumber * i;
-            reverseNum = newNumber;
-        }
-        return newNumber;
- main
     }
     
 }

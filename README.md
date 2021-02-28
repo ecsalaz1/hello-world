@@ -1,4 +1,4 @@
 # hello-world
-This is a test regarding new tutorials
+CSE 360 Hello World git demo
 
-This is a test edit made during the tutorial.
+Eric Salazar 2/28/21
